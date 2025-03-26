@@ -8,7 +8,7 @@ const dc_heros = ["Superman" , "Flsh" , "Batman"];
 // const AllHeros = marvel_heros.concat(dc_heros);
 // console.log(AllHeros);
 
-const All_new_heros = [...marvel_heros , ...dc_heros];
+const All_new_heros = [...marvel_heros , ...dc_heros]; // (spread Operator)
 // console.log(All_new_heros);
 
 const another_array = [2 , 3 , 4 , [3 , 5 ,6], 8 , 9 ,[2 , 4 ,5,[7 , 8 , 6] ,9 ,7] ];
