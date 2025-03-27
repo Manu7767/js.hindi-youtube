@@ -27,16 +27,26 @@ const obj2 = {4: "c", 5: "d"}
 
 const obj3 = {...obj , ...obj2}
 
-// console.log(obj3);
+// // console.log(obj3);
 
-console.log(tinderuser);
-console.log(Object.keys(tinderuser));
-console.log(Object.values(tinderuser));
-console.log(Object.entries(tinderuser))
+// console.log(tinderuser);
+// console.log(Object.keys(tinderuser));
+// console.log(Object.values(tinderuser));
+// console.log(Object.entries(tinderuser))
 
 
-console.log(tinderuser.hasOwnProperty('isloggedIn'))
+// console.log(tinderuser.hasOwnProperty('isloggedIn'))
 
+const course = {
+    courseName : "Js in hindi",
+    Price : "999",
+    courseInstructer: "Hitesh",
+}
+
+const {courseInstructer: instuctor} = course
+
+// console.log(courseInstructer);
+console.log(instuctor);
 
 
 
