@@ -7,6 +7,9 @@ const user = {
         
     }
 }
+
+//  hello
+
 user.username = "Sam"
 user.WelcomeMessage()
 // user.WelcomeMessage()
