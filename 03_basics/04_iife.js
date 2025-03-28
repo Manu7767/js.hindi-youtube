@@ -2,11 +2,12 @@
 // function Chai(){
 // console.log(`DB Connected`);
 
-// }git config pull.rebase false
-git pull
-
+// }
 // Chai()
 
+
+// hello radhe
+ 
 // (function Chai(){
 // console.log(`DB Connected`);
 
